@@ -1,0 +1,6 @@
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassLibrary\bin\Debug\StaticClassLibrary.dll
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassLibrary\bin\Debug\StaticClassLibrary.pdb
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassLibrary\obj\Debug\StaticClassLibrary.csprojAssemblyReference.cache
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassLibrary\obj\Debug\StaticClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassLibrary\obj\Debug\StaticClassLibrary.dll
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassLibrary\obj\Debug\StaticClassLibrary.pdb

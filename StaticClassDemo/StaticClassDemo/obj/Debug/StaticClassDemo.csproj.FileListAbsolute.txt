@@ -1,0 +1,10 @@
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe.config
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.exe
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassDemo.pdb
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassLibrary.dll
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\bin\Debug\StaticClassLibrary.pdb
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csprojAssemblyReference.cache
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.csproj.CopyComplete
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.exe
+C:\Users\dylso\OneDrive\Desktop\NBCC (WMPD)\Winter Classes\OOP\Exercises\OOPEx14StaticAccess\StaticClassDemo\StaticClassDemo\obj\Debug\StaticClassDemo.pdb
